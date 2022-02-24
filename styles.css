@@ -2,15 +2,27 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-h1 {
-    color: antiquewhite;
-}
-
-h3 {
+p, li {
     color: antiquewhite;
 }
 
 body {
     background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: #ffb759;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+
+h3 {
+    color: rgb(249, 212, 164);
 }
 
